@@ -24,7 +24,7 @@ export default function Intro() {
             transition={{ type: 'tween', duration: 0.25 }}
           >
 
-                <Image src="/rashidat-img.jpg" 
+                <Image src="/rashidat-image.jpg" 
                 alt="Rashidat's photo" 
                 width = "192" height = "192" 
                 quality = "95" 
